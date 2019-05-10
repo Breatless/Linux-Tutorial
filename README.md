@@ -69,7 +69,7 @@
 - [MySQL 教程](markdown-file/Mysql-Tutorial.md)
 - [Percona XtraDB Cluster（PXC）安装和配置](markdown-file/PXC-Install-And-Settings.md)
 - [Redis 安装和配置](markdown-file/Redis-Install-And-Settings.md)
-- [MongoDB 安装和配置](markdown-file/MongoDB-Install-And-Settings.md)
+- [MongoDB 安装和配置](markdown-file/MongoDB-Install-And-Settings.md）
 - [Solr 安装和配置](markdown-file/Solr-Install-And-Settings.md)
 - [Jira 安装和配置](markdown-file/Jira-Install-And-Settings.md)
 - [TeamCity 安装和配置](markdown-file/TeamCity-Install-And-Settings.md)
